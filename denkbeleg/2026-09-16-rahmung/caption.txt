@@ -1,0 +1,11 @@
+Neunzig Prozent fettfrei und zehn Prozent Fett beschreiben denselben Joghurt. Die erste Packung verkauft sich besser.
+
+Amos Tversky und Daniel Kahneman haben das 1981 in eine Aufgabe gegossen, die heute in jedem Lehrbuch steht. Zwei Gruppen bekamen dasselbe Szenario: Eine Krankheit bedroht 600 Menschen. Programm A rettet sicher 200. Programm B rettet mit einem Drittel Wahrscheinlichkeit alle und mit zwei Dritteln niemanden. Die Mehrheit wählte A. Einer zweiten Gruppe wurde dieselbe Wahl anders beschrieben: Bei Programm A sterben sicher 400. Jetzt kippte die Mehrheit zu B. Die Stichproben waren klein, 152 und 155 Personen.
+
+Genau solche Klassiker sind in den vergangenen Jahren reihenweise gefallen. Dieser nicht. Das Many-Labs-Projekt um Richard Klein hat den Versuch 2014 in 36 Laboren wiederholt, mit mehr als 6.000 Teilnehmern. In 31 der 36 Labore zeigte sich der Effekt. Er ist damit besser abgesichert als die meisten Befunde, die man aus Vorträgen kennt.
+
+Der Grund ist unspektakulär. Eine Zahl für sich sagt nicht, ob sie gut ist; das sagt erst der Bezugspunkt. „Sicher 200 gerettet“ setzt den Ausgangspunkt auf die Katastrophe, und von dort aus ist jeder Gerettete ein Gewinn, den man nicht aufs Spiel setzt. „Sicher 400 tot“ setzt den Ausgangspunkt auf den Normalzustand, und von dort aus ist jeder Tote ein Verlust, gegen den sich ein Risiko lohnt. Zwei Sätze, zwei Ausgangspunkte, eine Rechnung.
+
+Im Alltag heißt das zweierlei. Wenn dir jemand eine Quote nennt, rechne sie einmal umgekehrt: Neunzig Prozent Erfolgsquote heißt jede zehnte Behandlung ohne Erfolg. Zwei Prozent Gebühr heißen bei 3.000 Euro sechzig Euro im Jahr. Und wenn du selbst etwas vorträgst, entscheidest du, welche Seite zuerst genannt wird. Diese Wahl trifft ohnehin jemand, nur selten bewusst.
+
+Welche Zahl hast du zuletzt geglaubt, ohne sie einmal andersherum gelesen zu haben?
