@@ -1,0 +1,62 @@
+{
+  "job": "probe-bildquelle",
+  "marke": "shortheaven3",
+  "ausgaben": [
+    "story",
+    "karussell"
+  ],
+  "schriften": [
+    {
+      "familie": "EBGaramond",
+      "lizenz": "OFL-1.1",
+      "quelle": "https://raw.githubusercontent.com/google/fonts/main/ofl/ebgaramond/EBGaramond%5Bwght%5D.ttf"
+    },
+    {
+      "familie": "EBGaramondItalic",
+      "lizenz": "OFL-1.1",
+      "quelle": "https://raw.githubusercontent.com/google/fonts/main/ofl/ebgaramond/EBGaramond-Italic%5Bwght%5D.ttf"
+    }
+  ],
+  "bilder": [
+    {
+      "format": "story",
+      "slide": 1,
+      "url": "https://images.pexels.com/photos/35854894/pexels-photo-35854894.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1400&h=2100",
+      "anbieter": "pexels",
+      "urheber": "Any Melnic",
+      "lizenz": "Pexels-Lizenz (kommerziell erlaubt, Namensnennung nicht verlangt)",
+      "fundstelle": "https://www.pexels.com/photo/misty-forest-path-with-solo-walker-in-early-morning-35854894/",
+      "kennung": "35854894"
+    },
+    {
+      "format": "story",
+      "slide": 2,
+      "url": "https://images.pexels.com/photos/28785178/pexels-photo-28785178.jpeg",
+      "anbieter": "pexels",
+      "urheber": "kembabazi 🍂",
+      "lizenz": "Pexels-Lizenz (kommerziell erlaubt, Namensnennung nicht verlangt)",
+      "fundstelle": "https://www.pexels.com/photo/tranquil-ocean-horizon-under-blue-sky-28785178/",
+      "kennung": "28785178"
+    },
+    {
+      "format": "karussell",
+      "slide": 1,
+      "url": "https://images.pexels.com/photos/35854894/pexels-photo-35854894.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=1400&h=2100",
+      "anbieter": "pexels",
+      "urheber": "Any Melnic",
+      "lizenz": "Pexels-Lizenz (kommerziell erlaubt, Namensnennung nicht verlangt)",
+      "fundstelle": "https://www.pexels.com/photo/misty-forest-path-with-solo-walker-in-early-morning-35854894/",
+      "kennung": "35854894"
+    },
+    {
+      "format": "karussell",
+      "slide": 2,
+      "url": "https://images.pexels.com/photos/28785178/pexels-photo-28785178.jpeg",
+      "anbieter": "pexels",
+      "urheber": "kembabazi 🍂",
+      "lizenz": "Pexels-Lizenz (kommerziell erlaubt, Namensnennung nicht verlangt)",
+      "fundstelle": "https://www.pexels.com/photo/tranquil-ocean-horizon-under-blue-sky-28785178/",
+      "kennung": "28785178"
+    }
+  ]
+}
