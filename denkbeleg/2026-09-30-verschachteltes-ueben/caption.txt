@@ -1,0 +1,11 @@
+Wer für eine Prüfung übt, macht es fast immer gleich: ein Thema, zehn Aufgaben dazu, dann das nächste Thema. Das läuft angenehm. Ab der zweiten Aufgabe weiß man, welches Verfahren dran ist, und muss es nur noch ausführen. Genau darin liegt das Problem.
+
+Doug Rohrer, Robert Dedrick und Sandra Stershic haben 2015 in einer Schulklasse nachgesehen. 126 Siebtklässler übten drei Monate lang Mathematik, zehn Aufgabenblätter, identischer Stoff und identische Aufgabenzahl. Die eine Gruppe bekam die Aufgaben blockweise, die andere gemischt. Beim Test einen Tag nach der letzten Wiederholung lag die gemischte Gruppe bei 80 Prozent, die blockweise bei 64. Nach dreißig Tagen waren es 74 gegenüber 42 Prozent. Der Abstand wuchs, statt zu schrumpfen.
+
+Eine einzelne Klassenstudie beweist wenig. Barbara Brunmair und Tobias Richter haben deshalb 2019 im Psychological Bulletin 59 Untersuchungen zusammengefasst, 158 Stichproben, 8.466 Personen, 238 Effektstärken. Über alle Materialien hinweg ergab sich ein mittlerer Vorteil für das Mischen, Hedges g = 0,42.
+
+Interessant ist, wo es nicht funktioniert. Bei Vokabeln drehte sich der Effekt um, g = −0,39, dort war der Block besser. Bei Sachtexten zeigte sich gar nichts. Der Gewinn entsteht überall dort, wo man ähnliche Fälle voneinander unterscheiden muss: welcher Rechenweg, welche Formel, welcher Malstil. Wer blockweise übt, übt das Ausführen. Wer mischt, übt zusätzlich das Erkennen, und das ist im Test die eigentliche Hürde.
+
+Praktisch heißt das: drei Aufgabentypen im Wechsel statt zehn vom selben. Vor jeder Aufgabe einen Satz dazu, welcher Weg dran ist, bevor gerechnet wird. Es fühlt sich zäher an und die Trefferquote beim Üben sinkt. Beides gehört dazu. Für reine Wortlisten bleibt der Block die bessere Wahl.
+
+Bei welchem Stoff verwechselst du regelmäßig die Verfahren, obwohl du jedes einzeln beherrschst?
