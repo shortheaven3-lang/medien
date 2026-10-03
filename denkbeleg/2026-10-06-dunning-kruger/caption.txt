@@ -1,0 +1,11 @@
+Kaum ein Begriff wird so gern als Schlusswort benutzt. Jemand ist sich sicher, jemand anders nennt es Dunning-Kruger, und damit gilt die Sache als erledigt. Das Problem ist, dass die bekannte Kurve weniger über Menschen aussagt als über die Art, wie sie gezeichnet wurde.
+
+Justin Kruger und David Dunning haben 1999 Studierende getestet, nach Ergebnis in vier Gruppen geteilt und jeder Gruppe ihre Selbsteinschätzung gegenübergestellt. Das schwächste Viertel lag deutlich über seiner Leistung, das stärkste etwas darunter. Daraus wurde die These: Wer wenig kann, dem fehlt genau die Fähigkeit, das zu merken.
+
+Joachim Krueger und Ross Mueller haben 2002 gezeigt, woran diese Auswertung leidet. Teilt man Zufallszahlen in Viertel und vergleicht die Viertel mit einer zweiten, unabhängigen Messung, entsteht dieselbe Schere. Zwei bekannte Mechanismen genügen dafür. Fast alle halten sich für etwas überdurchschnittlich. Und jede Messung enthält Fehler, weshalb die Extremgruppen bei einer zweiten Messung zur Mitte rücken. Wer Gruppen nach einem Test bildet und dann denselben Test zur Bewertung nimmt, produziert das Muster selbst.
+
+Gilles Gignac und Marcin Zajenkowski haben die Frage 2020 ohne Gruppen gestellt. 929 Personen, Selbsteinschätzung der eigenen Intelligenz gegen einen Matrizentest. Sie suchten gezielt nach dem, was die These verlangt: eine Krümmung und eine ungleiche Streuung am unteren Ende. Beides fanden sie nicht. Der Zusammenhang war linear, r = 0,28, Vertrauensbereich 0,22 bis 0,34. Schwach, aber in der richtigen Richtung. Menschen schätzen sich also durchaus ungenau ein, und die Schwächeren liegen in absoluten Punkten weiter darüber. Nur liegt das daran, dass nach unten weniger Platz ist.
+
+Was bleibt, ist unbequemer als die Kurve. Selbsteinschätzung ist ein schlechter Messwert, für alle. Deshalb hilft nur ein Ergebnis von außen: eine Probeklausur, eine Zahl, ein fremder Blick. Und die Sicherheit eines Gegenübers sagt nichts über dessen Kenntnis. Sie ist kein Argument, aber auch kein Gegenargument.
+
+Wann hast du zuletzt eine eigene Einschätzung an einem Ergebnis gemessen statt an deinem Gefühl?

@@ -1,0 +1,11 @@
+Die beliebteste Lernmethode ist die passivste: lesen, markieren, noch einmal lesen. Sie fühlt sich gut an, weil der Stoff mit jedem Durchgang vertrauter wird. Vertrautheit ist aber nicht dasselbe wie Verfügbarkeit. Geprüft wird später, ob du etwas hervorholen kannst, ohne es vor dir zu haben.
+
+Norman Slamecka und Peter Graf haben 1978 den Unterschied sauber getrennt. Eine Gruppe las Wortpaare, eine zweite musste das jeweils zweite Wort nach einer einfachen Regel selbst erzeugen. Gleicher Stoff, gleiche Zeit, gleiche Anzahl. Wer erzeugte, erinnerte mehr. Der Befund hat einen Namen bekommen, Generationseffekt, und er ist seitdem oft genug wiederholt worden, um nachrechenbar zu sein.
+
+Sharon Bertsch, Bryan Pesta, Richard Wiscott und Mark McDaniel haben 2007 zusammengetragen, was vorliegt: 86 Studien, 445 Effektstärken. Der mittlere Vorteil des Erzeugens liegt bei d = 0,40. Interessanter als der Mittelwert ist, wie er sich verschiebt. Unmittelbar nach dem Lernen beträgt er d = 0,41, nach mehr als einem Tag d = 0,64. Der Vorsprung wächst also genau dort, wo es darauf ankommt. Innerhalb derselben Person gemessen fällt er deutlich größer aus als zwischen zwei Gruppen, d = 0,50 gegen d = 0,28.
+
+Genauso wichtig ist, wo nichts passiert. Bei Nichtwörtern lag der Effekt bei d = 0,05, bei Anagrammen kippte er ins Negative, d = −0,05. Und die Menge begrenzt ihn hart: bis 25 Begriffe d = 0,60, zwischen 26 und 50 noch d = 0,41, darüber nur noch d = 0,09. Erzeugen braucht einen Anker im Gedächtnis und eine überschaubare Portion. Wer sich hundert fremde Vokabeln selbst herleiten will, verliert den Vorteil wieder.
+
+Praktisch läuft es auf zwei Handgriffe hinaus. Die Antwortspalte abdecken und laut sagen, bevor du nachsiehst. Und in Blöcken von höchstens fünfundzwanzig arbeiten. Es fühlt sich anstrengender an als Markieren, und das ist kein Nebeneffekt, sondern der Grund.
+
+Bei welchem Stoff liest du seit Jahren mit, ohne ihn jemals ohne Vorlage gesagt zu haben?
