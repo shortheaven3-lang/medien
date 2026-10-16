@@ -1,0 +1,16 @@
+:root{--papier:#efe6d6;--tinte:#2b211a;--leise:#6b5a4a;--linie:#d6c7ae}
+@media (prefers-color-scheme:dark){:root{--papier:#1d1915;--tinte:#efe6d6;--leise:#b8a891;--linie:#3a3128}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--papier);color:var(--tinte);font:17px/1.6 Georgia,"EB Garamond",serif}
+main{max-width:720px;margin:0 auto;padding:48px 16px 64px}
+h1{font-size:2rem;margin:0 0 .3em;font-weight:normal}
+h2{font-size:1.25rem;margin:2em 0 .4em;font-weight:normal;border-bottom:1px solid var(--linie);padding-bottom:.2em}
+p,li{margin:.4em 0}
+a{color:inherit}
+.leise{color:var(--leise);font-size:.92rem}
+nav{margin-bottom:2em;font-size:.95rem}
+nav a{margin-right:1em}
+dl{display:grid;grid-template-columns:max-content 1fr;gap:.2em 1em}
+dt{color:var(--leise)}
+dd{margin:0}
+@media (max-width:520px){dl{grid-template-columns:1fr}dd{margin-bottom:.4em}}
